@@ -1,0 +1,40 @@
+h1 {
+    font-size: 12vw;
+    height: 100vh;
+}
+.section{
+    background-color: lightpink;
+    width: 50%;
+}
+.firstpara{
+    font-size: 18px;
+}
+
+.secondpara{
+    font-size: 3vw;
+
+}
+
+.thirdpara{
+    font-size: 5vh;
+}
+.section1{
+    background-color: lightblue;
+    font-size: 32px;
+}
+.para4{
+    font-size: 18px;
+}
+.para5{
+    font-size: 100%
+    
+}
+.para6{
+    font-size: 100rem;
+    
+}
+.orangebox{
+    border: 3px orange solid;
+    width: 80vw;
+    height: 50vh;
+}
